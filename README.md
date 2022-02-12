@@ -12,3 +12,5 @@ https://
 
 ## Contribution
 Made with ❤️ by Olyvia Lassiter
+
+### ©️2019 Run Buddy, Inc 
