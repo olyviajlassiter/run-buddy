@@ -342,6 +342,7 @@ header h1 {
     flex: 1 100%;
   }
 
+  /* MEDIA QUERY FOR TABLETS AND SMALLER */
   @media screen and (max-width: 768px) {
     section {
       padding: 30px 15px;
@@ -369,6 +370,7 @@ header h1 {
     flex: 100%;  
   }
 
+  /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
 
     .hero-form button {
